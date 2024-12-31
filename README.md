@@ -8,6 +8,14 @@ Download for [Windows](https://git-scm.com/downloads/win) or [macOS](https://git
 
 If you are using macOS, you can also just open `terminal` and type in the `git -v` command and `Xcode` will launch and install the git package automatically on newer OS.
 
+To verify git is properly installed, open `command line` on Windows or `terminal` on macOS and type the following command:
+
+```git -v```
+
+and you should see the current version of git if properly installed.
+
+![Git command line](img/git-command-line.jpg)
+
 ## Github Education
 
 To get the most out of git, [signup](https://github.com/signup) for a github account and get [Github Education access](https://github.com/education/students).
