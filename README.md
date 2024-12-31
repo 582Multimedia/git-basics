@@ -22,6 +22,6 @@ Once have git installed and you have set up a github account, we can now get sta
 
 [Working with GitHub in VS Code](https://code.visualstudio.com/docs/sourcecontrol/github)
 
-You can also watch [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://youtu.be/i_23KUAEtUM) on youtube.
-
 [![Using Git with Visual Studio Code (Official Beginner Tutorial)](img/git-youtube-intro.jpg)](https://youtu.be/i_23KUAEtUM)
+
+You can also watch [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://youtu.be/i_23KUAEtUM) on youtube.
