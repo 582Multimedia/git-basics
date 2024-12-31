@@ -14,7 +14,7 @@ To verify git is properly installed, open `command line` on Windows or `terminal
 
 and you should see the current version of git if properly installed.
 
-![Git command line](img/git-command-line.jpg)
+![Git command line](img/git-command-line2.jpg)
 
 ## Github Education
 
