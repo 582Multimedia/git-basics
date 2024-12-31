@@ -16,10 +16,12 @@ To get the most out of git, [signup](https://github.com/signup) for a github acc
 
 Once have git installed and you have set up a github account, we can now get started with Git in VS Code!
 
-[Using Git with Visual Studio Code (Official Beginner Tutorial) - Youtube](https://youtu.be/i_23KUAEtUM)
-
 [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
 [Introduction to Git in VS Code](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git)
 
 [Working with GitHub in VS Code](https://code.visualstudio.com/docs/sourcecontrol/github)
+
+You can also watch [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://youtu.be/i_23KUAEtUM) on youtube.
+
+[![Using Git with Visual Studio Code (Official Beginner Tutorial)](img/git-youtube-intro.jpg)](https://youtu.be/i_23KUAEtUM)
