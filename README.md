@@ -25,3 +25,9 @@ Once have git installed and you have set up a github account, we can now get sta
 [![Using Git with Visual Studio Code (Official Beginner Tutorial)](img/git-youtube-intro.jpg)](https://youtu.be/i_23KUAEtUM)
 
 You can also watch [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://youtu.be/i_23KUAEtUM) on youtube.
+
+## Additional Tools
+
+[Sourcetree](https://www.sourcetreeapp.com/)
+
+[GUI Clients list](https://git-scm.com/downloads/guis)
