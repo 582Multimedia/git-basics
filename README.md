@@ -48,6 +48,8 @@ We recommend you to set up submodules of the course repos in a `demos` folder in
 git submodule add <url> <local-name>
 ```
 
+First, find and copy [the URL for the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+
 For example, if you are cloning a copy of the `582-403-va-web4-db-cms` repository into `public_html/demos/web4` (note the new name after choosing the location):
 
 ```shell
