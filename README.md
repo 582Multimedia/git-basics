@@ -64,7 +64,7 @@ Open your root folder, [open the Terminal](https://code.visualstudio.com/docs/te
 git submodule update --init --recursive
 ```
 
-### Important to checkout main before commiting updates
+### Important to checkout main before committing updates
 
 **Really important** to make sure your submodules are tracking with the remote on `main` branch, or else your updates will be detached and you will not be able to push updates.
 
