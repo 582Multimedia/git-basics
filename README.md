@@ -48,18 +48,30 @@ We recommend you to set up submodules of the course repos in a `demos` folder in
 git submodule add <url> <local-name>
 ```
 
-First, find and copy [the URL for the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+Find and copy [the URL for the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
-For example, if you are cloning a copy of the `582-403-va-web4-db-cms` repository into `public_html/demos/web4` (note the new name after choosing the location):
+If you are cloning a copy of the `582-403-va-web4-db-cms` repository into `public_html/demos/web4` (note the new name after choosing the location):
 
 ```shell
 git submodule add https://github.com/582Multimedia/582-403-va-web4-db-cms.git public_html/demos/web4
 ```
 
-### update all submodules inside your root
+### Update all submodules inside your root
+
+Open your root folder, [open the Terminal](https://code.visualstudio.com/docs/terminal/basics) and enter the following command:
 
 ```shell
 git submodule update --init --recursive
+```
+
+### Important to checkout main before commiting updates
+
+**Really important** to make sure your submodules are tracking with the remote on `main` branch, or else your updates will be detached and you will not be able to push updates.
+
+Right-click on a submodule and select `Open in Integrated Terminal` and enter the following command.
+
+```shell
+git checkout main
 ```
 
 ## Additional Tools
