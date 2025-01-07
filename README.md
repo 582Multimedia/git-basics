@@ -5,6 +5,7 @@ Introduction to git concepts and basics
 ## Install Git
 
 Download for [Windows](https://git-scm.com/downloads/win) or [macOS](https://git-scm.com/downloads/mac)
+
 Or check out [this video (no audio) for one way to do it on a pc](https://youtu.be/zjzoPAIHFfM?si=VKe3-TPRIyTjrmET)
 
 If you are using macOS, you can also just open `terminal` and type in the `git -v` command and `Xcode` will launch and install the git package automatically on newer OS.
