@@ -55,7 +55,7 @@ Find and copy [the URL for the repository](https://docs.github.com/en/repositori
 If you are cloning a copy of the `582-403-va-web4-db-cms` repository into `public_html/demos/web4` (note the new name after choosing the location):
 
 ```shell
-git submodule add https://github.com/582Multimedia/582-403-va-web4-db-cms.git public_html/demos/web4
+git submodule add https://github.com/582Multimedia/web4-db-cms.git public_html/demos/web4
 ```
 
 ### Update all submodules inside your root
