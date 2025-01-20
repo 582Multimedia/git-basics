@@ -52,7 +52,7 @@ git submodule add <url> <local-name>
 
 Find and copy [the URL for the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
-If you are cloning a copy of the `582-403-va-web4-db-cms` repository into `public_html/demos/web4` (note the new name after choosing the location):
+If you are cloning a copy of the `582-403-va-web4-db-cms` repository into `httpdocs/demos/web4` (note the new name after choosing the location):
 
 ```shell
 git submodule add https://github.com/582Multimedia/web4-db-cms.git public_html/demos/web4
